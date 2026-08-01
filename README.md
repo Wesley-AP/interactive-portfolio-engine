@@ -12,10 +12,10 @@ This repository is organized into
 
 ## Tech Stack
 
-|  Áreas | Tecnologíes /  Tools |
+|  Area | Tecnologíes /  Tools |
 | :--- | :--- |
 | **Frontend / UI** | <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> |
-| **Backend & Lógica** |  |
+| **Backend ** |  |
 | **Database** |  |
 | **Infrastructure** |  |
 | **Architecture & Mgmt** |  |
@@ -32,4 +32,4 @@ This repository is organized into
 
 ## About arc42
 
-arc42 is a standardized template for documenting software architectures. Developed by software architects for practical, structured documentation, arc42 is widely used for complex systems. This repository uses the Death Star as a fictional case study to demonstrate each arc42 section in practice.
+arc42 is a standardized template for documenting software architectures. Developed by software architects for practical, structured documentation, arc42 is widely used for complex systems.
