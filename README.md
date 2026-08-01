@@ -14,7 +14,7 @@ This repository is organized into
 
 |  Area | Tecnologíes /  Tools |
 | :--- | :--- |
-| **Frontend / UI** | <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> |
+| **Frontend / UI** | <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/Astro-orange?style=for-the-badge&logo=astro&logoColor=white" />|
 | **Backend** |  |
 | **Database** |  |
 | **Infrastructure** |  |
