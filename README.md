@@ -28,8 +28,3 @@ This repository is organized into
 4. [03_decisions](docs/03_decisions.md)
 5. [04_risks](docs/04_risks.md)
 6. [05_glossary](docs/05_glossary.md)
-
-
-## About arc42
-
-arc42 is a standardized template for documenting software architectures. Developed by software architects for practical, structured documentation, arc42 is widely used for complex systems.
