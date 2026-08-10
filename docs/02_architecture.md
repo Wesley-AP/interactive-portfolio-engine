@@ -15,3 +15,7 @@
 The database schema is defined using DBML and maintained
 in dbdiagram.io.
 
+<div align="center">
+    <img src="../assets/" alt="" width="600"/>
+</div>
+
