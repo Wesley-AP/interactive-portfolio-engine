@@ -10,3 +10,8 @@
 | **Infrastructure** |  |
 | **Architecture & Mgmt** |  |
 
+## Database Schema
+
+The database schema is defined using DBML and maintained
+in dbdiagram.io.
+
