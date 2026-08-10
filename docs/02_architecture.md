@@ -15,5 +15,5 @@
 The database schema is defined using DBML and maintained
 in dbdiagram.io.
 
-![Database Schema](assets/database_schema.svg)
+![Database Schema](docs/assets/interactive_profile_engine_schema_db.svg)
 
