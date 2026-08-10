@@ -4,7 +4,14 @@
     <img src="" alt="" width="600"/>
 </div>
 
-Welcome to the
+The **Interactive Profile Engine** is a personal system designed to manage and present professional information in a dynamic and scalable way over time.
+
+It acts as a centralized source of:
+- Projects
+- Experiences
+- Technologies
+- Certifications
+- Social links
 
 ## Overview
 This repository is organized into
