@@ -6,16 +6,14 @@
 
 The **Interactive Profile Engine** is a personal system designed to manage and present professional information in a dynamic and scalable way over time.
 
-It acts as a centralized source of:
-- Projects
-- Experiences
-- Technologies
-- Certifications
-- Social links
-
 ## Overview
 This repository is organized into
-- **[docs](docs)** (`docs`): Contains all arc42 sections
+1. [00_Overview](docs/00_overview.md)
+2. [01_scope](docs/01_scope.md)
+3. [02_architecture](docs/02_architecture.md)
+4. [03_decisions](docs/03_decisions.md)
+5. [04_risks](docs/04_risks.md)
+6. [05_glossary](docs/05_glossary.md)
 
 ## Tech Stack
 
@@ -28,10 +26,3 @@ This repository is organized into
 | **Architecture & Mgmt** |  |
 
 
-## Documentation Sections
-1. [00_Overview](docs/00_overview.md)
-2. [01_scope](docs/01_scope.md)
-3. [02_architecture](docs/02_architecture.md)
-4. [03_decisions](docs/03_decisions.md)
-5. [04_risks](docs/04_risks.md)
-6. [05_glossary](docs/05_glossary.md)
